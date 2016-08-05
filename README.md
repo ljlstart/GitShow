@@ -1,3 +1,2 @@
-GitShow
-Test for gitshow
+Test For Gitshow
 
